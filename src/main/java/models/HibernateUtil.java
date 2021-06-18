@@ -25,7 +25,7 @@ public static SessionFactory getSessionFactory() {
 			settings.put(Environment.DRIVER, "com.mysql.jdbc.Driver");
 			settings.put(Environment.URL, "jdbc:mysql://localhost:3306/todo_database");
 			settings.put(Environment.USER, "root");
-			settings.put(Environment.PASS, "Brandon13");
+			settings.put(Environment.PASS, "root");
 			settings.put(Environment.DIALECT, "org.hibernate.dialect.MySQLDialect");
 			
 			settings.put(Environment.SHOW_SQL, "true");
