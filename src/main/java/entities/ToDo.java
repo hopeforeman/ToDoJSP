@@ -14,13 +14,6 @@ public class ToDo {
 	private int id;
 	private String task;
 
-//	ToDo(String task) {
-//		this.task = task;
-//	}
-//
-//	public ToDo() {
-//	}
-
 	// getters and setters
 	public int getId() {
 		return id;
