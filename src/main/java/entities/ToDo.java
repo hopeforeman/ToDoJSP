@@ -40,5 +40,4 @@ public class ToDo {
 	public String toString() {
 		return this.id + ": " + this.task;
 	}
-
 }
